@@ -7,19 +7,9 @@ assignees: ''
 
 ---
 
-## 1. purpose in the pull request.
+## 1. issue title
 
 
-## 2. What's New
+## 2. Issue details
 
 
-## 3. what's changed
-
-
-## 4. Does the server run locally after the change?
-
-
-## 5. Possible problems with this pr
-
-
-## 6. Has it been verified through the test code?
